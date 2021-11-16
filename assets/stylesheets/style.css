@@ -77,12 +77,26 @@
   box-sizing: border-box;
 }
 
+#hero1{
+  background: url('../img/gros_fond.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%; /*je ne suis pas sûre de ça*/
+  padding-bottom: 1%;
+}
+
+
+#contenu1{
+  text-align: center;
+  padding: 5%;
+}
+
 
 #hero{
   background: url('../img/image_de_fond.jpg');
   background-repeat: no-repeat;
   width: 100%; /* Il occupe toute la largeur de l'écran */
-  height: 400px; 
+  height: 200px; 
   padding-bottom: 1%;
 }
 
@@ -108,7 +122,7 @@
 
  #contenu{
   text-align: center;
-  padding: 6%;
+  padding: 5%;
 }
 
 
