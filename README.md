@@ -1,7 +1,7 @@
 # s8j2_uievent
 
 
-Chaqque élément devra être contenu dans un fichier .html au nom équivoque. Voici ce qu'il faut réaliser :
+Voici ce qu'il faut réaliser :
 
 Une navbar
 Un footer
