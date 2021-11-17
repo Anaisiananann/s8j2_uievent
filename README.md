@@ -20,3 +20,5 @@ Lancement de la page web
 
 Ouvrir le fichier index.html avec votre navigateur
 
+via ce lien: https://anaisiananann.github.io/s8j2_uievent/html/index.html
+
